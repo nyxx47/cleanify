@@ -16,10 +16,21 @@
     "@babel/preset-react": "^7.8.3",
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
+    "@svgr/webpack": "^5.2.0",
     "babel-loader": "^8.0.6",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-styleguidist": "^10.6.2",
     "webpack": "^4.42.0"
+  },
+  "dependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.27",
+    "emotion-theming": "^10.0.27",
+    "styled-system": "^5.1.5"
+  },
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
   }
 }
