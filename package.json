@@ -20,7 +20,7 @@
     "babel-loader": "^8.0.6",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-styleguidist": "^10.6.2",
+    "react-styleguidist": "^13.0.0",
     "webpack": "^4.42.0"
   },
   "dependencies": {
