@@ -20,8 +20,8 @@
     "babel-loader": "^8.0.6",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-styleguidist": "^10.6.2",
-    "webpack": "^4.42.0"
+    "react-styleguidist": "^13.0.0",
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "@emotion/babel-preset-css-prop": "^10.0.27",
